@@ -3,7 +3,8 @@ public class Haha {
         
         System.out.println("1 ahahah");
         if (true) {
-            
+
         }
+        System.out.println("dgads");
     }
 }
