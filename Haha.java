@@ -10,5 +10,6 @@ public class Haha {
 
         System.out.println("kilogam");
         System.out.println("sdga");
+        System.out.println("dsga");
     }
 }
